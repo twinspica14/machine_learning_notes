@@ -1,0 +1,6 @@
+to save any path in ubuntu
+# gedit .bashrc
+then
+PATH = {$PATH}:/PATH_TO PROGRAM
+
+USE JUPYTER NOTEBOOK COMMAND
